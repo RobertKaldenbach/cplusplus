@@ -31,3 +31,5 @@ Yes
 The hash-include is missing the hash.
 
 4.  Fix the error in the program, compile, link and run it.  What does it do?
+
+It outputs "Hello Buggy World" to the screen and exits
