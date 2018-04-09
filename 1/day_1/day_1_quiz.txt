@@ -1,0 +1,33 @@
+Quiz Day 1
+
+1.  What is the difference between an interpreter and a compiler?
+
+An interpreter reads code and can then perform the desired action.  A compilier compiles code into machine language  that can then be ran by the cpu  to perform the desired actions.  An interperter usually causes performance to be slower than code that is compiled. 
+
+2.  What does the linker do?
+A linker resovles the dependencies and connects the files of a program together into an executale file.
+
+3. What are the steps in the normal development cycle?
+    a. Writting or programming c++ code in an text editor
+    b. Compiling code using a c++ compilier
+    c. linking the output of the compilier using a linker to get an executable file
+    d. Execute the code to test
+    e. Debug and refactor code
+    f. repeat steps as needed
+
+
+
+
+Exercises
+1. Look at the following program and try to guess what it does without running it
+
+The program goes to the next line and outputs 2  48  14 goes to the next line and then ends.
+
+2.  Type in the program does it do what you guessed? 
+Yes
+
+3.  What do you think the error is in program?
+
+The hash-include is missing the hash.
+
+4.  Fix the error in the program, compile, link and run it.  What does it do?
