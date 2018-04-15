@@ -1,0 +1,16 @@
+Day 2 Quiz
+
+1.  What is the problem in declaring Int main()?
+    c++ is case sensitive.  Int should be int in c++.  
+
+2.  Can comments be longer than one line?
+    Yes, comments can be longer than one line just use /*  and */ to start and close the multiline comment
+
+
+Excercises
+
+1. Bug Busters
+    The program listed failes to compile for three reasons.
+    a.  std::Cout should be std::cout
+    b.  the string in std::cout is missing an opening double quote.
+    c.  the main function should return and integer
